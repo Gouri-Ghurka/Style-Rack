@@ -1,0 +1,84 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 10, 2020, 11:07:08 AM
+    Author     : Ghurka
+*/
+
+#banner_image{
+     padding-top : 75px;
+     padding-bottom: 50px;
+     text-align: center;
+     color: #f8f8f8;
+     background: url(./img/background.jpg)no-repeat center center;
+     background-size: cover; 
+     height: 750px;
+}
+#banner_content{
+     position: relative;     
+     padding-top: 6%;     
+     padding-bottom: 6%;     
+     margin-top: 12%;    
+     margin-bottom: 12%;     
+     background-color: rgba(0, 0, 0, 0.7);     
+     max-width: 660px;
+ }
+
+.row_style{
+    margin-top: 80px;
+}
+table{
+    margin-top: 80px;
+}
+.caption{
+        color:#000;
+        padding:0px 10px 10px;
+        font-weight: bold;
+        text-align: center; 
+}
+.img-pdt{
+    height: 250px;
+    margin: 0px auto;
+    transition: 0.7s ease-out;
+}
+footer{
+position: fixed;
+padding: 10px 0px;background-color: #101010;
+color: #9d9d9d;
+bottom: 0;
+width: 100%;
+}
+.content{
+    min-height: 660px;
+}
+.signup-image{
+    height: 580px;
+}
+
+.btn-signup{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.red{
+    color: red;
+}
+
+.green{
+    color: green;
+}
+.box-padding-rl{
+    padding: 0px 12px;
+}
+.box-padding-10{
+    padding: 10px 0px;
+}
+.p-bold{
+    font-weight: 900;
+}
+.about-p{
+    padding: 20px 0px;
+}
